@@ -37,7 +37,7 @@
 - Place: New Delhi, India
 - Bio: Curious Learner
 - Github: [pranav1999](https://github.com/pranav1999)
-
+ 
 ### Name: [Vaibhav D. Aren](www.codeuino.org)
 - Place: Lucknow, Uttar Pradesh
 - Bio: Software Developer 
@@ -51,3 +51,8 @@
 ### Name: [Kirankumar Ambati](https://github.com/kirankumarambati)
 - Place: Hyderabad, India
 - Passion: Frontend Development
+
+### Name: [Kushagra Pratap](https://github.com/kush1833)
+- Place: Allahabad, India
+- Bio: Computer Science Undergraduate @MNNIT Allahabad|An inquisitive guy
+- Github: [kush1833](https://github.com/kush1833)
